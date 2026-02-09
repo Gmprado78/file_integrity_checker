@@ -1,3 +1,2 @@
-We will be doing a file integrity checker. 
-
-If a file is not the same as saved hash then it must be edited by hackerz
+This is  a file integrity checker which checks if two files have the same hash. 
+Credit: Gabriel Prado,  Andrew McCullough, Mikey Frankowski,  Takua Hendrix
